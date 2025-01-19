@@ -28,7 +28,7 @@ Instalación y Configuración
 
 1. Clonar el Repositorio
 
-Clona el repositorio desde GitHub:
+Clona el repositorio desde GitHub: https://github.com/JeanRodriguezdev/Conversor-de-monedas.git
 
 
 
